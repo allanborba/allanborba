@@ -1,7 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Allan Borba
-===================================================================================================================================
+### Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-## Full stack developer
+### My name is Allan Borba and I'm a full stack developer
 
 Graduated in civil engineering, passionate about puzzles and technology. Full-stack developer with emphasis on backend.
 
