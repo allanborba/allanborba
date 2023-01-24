@@ -4,7 +4,7 @@
 
 Graduated in civil engineering, passionate about puzzles and technology. Full-stack developer with emphasis on backend.
 
-Developing testable, readable and scalable code. OOP passionate
+Developing readable, scalable and testable code. OOP passionate
 
 * 🚀  Currently working on [Prevision](http://www.prevision.com.br/)
 * ✉️  contact me at [allan.borbadelimas@gmail.com](mailto:allan.borbadelimas@gmail.com)
