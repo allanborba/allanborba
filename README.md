@@ -2,7 +2,7 @@
 
 ### My name is Allan Borba and I'm a full stack developer
 
-Graduated in civil engineering, passionate about puzzles and technology. Full-stack developer with emphasis on backend.
+Graduated in civil engineering, passionate about puzzles, technology and books. Full-stack developer with emphasis on backend and performance improvement.
 
 Developing readable, scalable and testable code. OOP passionate
 
